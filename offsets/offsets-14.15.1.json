@@ -24,6 +24,7 @@
     "objBuffManagerEnd": "0x20",
     "buffEntry": "0x10",
     "buffEntryName": "0x8",
+    "buffEntryNameLength": "0x10",
     "buffStartTime": "0x18",
     "buffEndTime": "0x1C",
 

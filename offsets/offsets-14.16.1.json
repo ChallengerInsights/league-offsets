@@ -24,5 +24,7 @@
     "objectMapCount": "0x48",
     "objectMapRoot": "0x40",
     "objectMapNodeNetId": "0x20",
-    "objectMapNodeObject": "0x28"
+    "objectMapNodeObject": "0x28",
+
+    "fnGetCollisionFlags": "0xEB7FD0"
 }

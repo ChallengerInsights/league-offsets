@@ -1,0 +1,28 @@
+{
+    "gameTime": "0x19921B8",
+    "localPlayer": "0x19A96B0",
+    "objIndex": "0x10",
+    "objTeam": "0x3C",
+    "objVisible": "0x2F8",
+    "objPosition": "0x1F0",
+    "objHealth": "0x1068",
+    "objMaxHealth": "0x1090",
+    "objMana": "0x338",
+    "objMaxMana": "0x360",
+    "objName": "0x4390",
+    "objNameLength": "0x43A0",
+    "objLvl": "0x4D70",
+    "objExperience": "0x4D48",
+    "objCurrentGold": "0x27D8",
+    "objTotalGold": "0x2800",
+    "objDisplayName": "0x58",
+    "objDisplayNameLength": "0x68",
+    "objSpellbook": "0x3C28",
+    "spellCooldown": "0x30",
+
+    "objectManager": "0x19851F8",
+    "objectMapCount": "0x48",
+    "objectMapRoot": "0x40",
+    "objectMapNodeNetId": "0x20",
+    "objectMapNodeObject": "0x28"
+}

@@ -27,6 +27,7 @@
     "buffEntryNameLength": "0x10",
     "buffStartTime": "0x18",
     "buffEndTime": "0x1C",
+    "buffCount": "0x38",
 
     "objectManager": "0x19851F8",
     "objectMapCount": "0x48",

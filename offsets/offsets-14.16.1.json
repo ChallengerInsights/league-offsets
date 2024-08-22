@@ -35,5 +35,5 @@
     "objectMapNodeNetId": "0x20",
     "objectMapNodeObject": "0x28",
 
-    "fnGetCollisionFlags": "0xEB7FD0"
+    "fnGetCollisionFlags": "0xEB7FE0"
 }

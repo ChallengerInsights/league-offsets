@@ -35,6 +35,10 @@
     "objectMapNodeNetId": "0x20",
     "objectMapNodeObject": "0x28",
 
+    "heroList": "0x19C4928",
+    "minionList": "0x19C7988",
+    "turretList": "0x19CEA68",
+
     "fnGetCollisionFlags": "0xEEE140",
     "worldToScreenQWORD": "0x19C7948",
     "fnWorldToScreen": "0xF80850"

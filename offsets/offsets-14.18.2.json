@@ -38,6 +38,12 @@
     "heroList": "0x19C4928",
     "turretList": "0x19CEA68",
 
+    "minimapObject": "0x19D1050",
+    "minimapObjectHud": "0x240",
+    "minimapObjectHudX": "0x68",
+    "minimapObjectHudY": "0x6C",
+    "minimapObjectHudSize": "0x70",
+
     "fnGetCollisionFlags": "0xEEE140",
     "worldToScreenQWORD": "0x19C7948",
     "fnWorldToScreen": "0xF80850"

@@ -1,4 +1,4 @@
 {
-    "fnGetCollisionFlags": ["48 83 EC ? 48 8B D1 48 8B 0D ? ? ? ? 48 8B 49 ? E8 ? ? ? ? 48 8B C8 48 85 C0 74 ? 48 8B 00 48 85 C0 74 ? 0F B7 40 ? 48 83 C4", "subrsp", 0],
+    "fnGetCollisionFlags": ["E8 ? ? ? ? 44 3A EB", "call", 1],
     "fnWorldToScreen": ["48 83 EC ? 49 8B C0 4C 8B D2", "subrsp", 0]
 }
